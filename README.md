@@ -1,2 +1,2 @@
-# Saliksi
+# Saliksik
 library
